@@ -1,6 +1,6 @@
 # Nike Concept Website
 
-Final project for the first module of the Tamwood Career's Web Development course.
+Final project for the second module of the Tamwood Career's Web Development course.
 
 ## References
 
